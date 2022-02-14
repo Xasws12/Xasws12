@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xasws12
+- I’m interested in becoming a front-end developer. possibly even move on to back-end
+- 🌱 I’m currently learning javascript, html and a bit of css
+- doing my best to learn. so far working on mini projects for friends.
